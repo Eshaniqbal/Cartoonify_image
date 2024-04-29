@@ -49,10 +49,6 @@ This application allows you to cartoonify an image by applying edge detection an
 3. The application will cartoonify the selected image and display the cartoonified version.
 4. Click the "Save Cartoon Image" button to save the cartoonified image to your computer.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize the README file according to your project's specific details and requirements.
