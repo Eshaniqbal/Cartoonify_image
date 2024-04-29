@@ -22,7 +22,7 @@ This application allows you to cartoonify an image by applying edge detection an
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/cartoonify-app.git
+   git clone https://github.com/Eshaniqbal/cartoonify-app.git
    ```
 
 2. Navigate to the project directory:
